@@ -1,5 +1,5 @@
 package com.range.jarvis.service
 
-class MessageService {
+interface MessageService {
     fun findSameMessage(msg: String):
 }
