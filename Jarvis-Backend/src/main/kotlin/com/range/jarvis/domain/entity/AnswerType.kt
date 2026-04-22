@@ -1,4 +1,4 @@
-package com.range.jarvis.dto
+package com.range.jarvis.domain.entity
 
 enum class AnswerType {
     ANSWER,

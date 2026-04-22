@@ -1,8 +1,8 @@
 package com.range.jarvis.domain.repository
 
-import com.range.jarvis.domain.entity.MessageAnswer
+import com.range.jarvis.domain.entity.Message
 import org.springframework.data.jpa.repository.JpaRepository
 import java.util.UUID
 
-interface MessageAnswerRepository: JpaRepository<MessageAnswer, UUID> {
+interface MessageRepository: JpaRepository<Message, UUID> {
 }
