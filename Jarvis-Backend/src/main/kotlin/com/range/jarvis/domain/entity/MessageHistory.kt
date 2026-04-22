@@ -11,10 +11,10 @@ import java.util.UUID
 
 @Entity
 @Table(name = "chat")
-data class MessageHistory (
+ class MessageHistory (
     @Id
     @GeneratedValue(strategy = GenerationType.UUID)
-    var id: UUID,
+    var id: UUID? = null,
     var message: String,
     var askedAt: Instant = Instant.now(),
 )
