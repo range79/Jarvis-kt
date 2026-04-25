@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb26eb71-421a-4dbf-9963-d2f5144f10b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/domain/entity/MessageAnswer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/domain/entity/MessageAnswer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/domain/entity/MessageHistory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/domain/entity/MessageHistory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/controller/QuestionController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/controller/QuestionController.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/service/MessageService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Jarvis-Backend/src/main/kotlin/com/range/jarvis/service/MessageService.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/range79/workdir/Jarvis-kt",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +77,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }

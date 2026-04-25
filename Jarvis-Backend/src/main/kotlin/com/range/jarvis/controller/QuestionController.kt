@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RestController
 
 @RestController
 class QuestionController {
-    @GetMapping("/")
+    @GetMapping("/ask-question")
     fun askQuestion(@RequestBody question: String): AnswerType {
-TODO()
+
     }
 }
